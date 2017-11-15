@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4df8799dc10c9d64fb2333168ada9fa7
+timeCreated: 1506083442
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alisandra Demo
+  fontNames:
+  - Alisandra Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
